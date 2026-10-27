@@ -1,0 +1,5 @@
+f_name =  input("What is your first name? ")
+f_name =  f_name.strip().title()
+l_name =  input("What is your last name? ")
+l_name =  l_name.strip().title()
+print(f"Hello {f_name} {l_name} nice to meet you!")
